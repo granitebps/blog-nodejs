@@ -4,6 +4,7 @@
   "description": "Personal Blog Using Node.js",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "author": "Granite Bagas",
