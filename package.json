@@ -1,0 +1,19 @@
+{
+  "name": "blognodejs",
+  "version": "1.0.0",
+  "description": "Personal Blog Using Node.js",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Granite Bagas",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
