@@ -4,4 +4,4 @@ A personal blog API using Node.js and MongoDB
 
 ## How to use
 
-- cp .env.example .env
+- Edit your MongoURI in config/database.js
